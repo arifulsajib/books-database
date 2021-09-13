@@ -1,0 +1,13 @@
+body {
+    background: #080323;
+    color: white;
+    height: 100%;
+}
+
+main {
+    min-height: calc(100vh - 232px);
+}
+
+#spinner {
+    display: none;
+}
